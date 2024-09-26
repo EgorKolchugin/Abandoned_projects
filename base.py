@@ -3,7 +3,7 @@ import telebot
 import random
 from telebot import types
 
-bot = telebot.TeleBot('6617610205:AAGXfXf8pqQQsws3hs6T9XYBBQ26PPYTz3M')
+bot = telebot.TeleBot('...') # токен бота
 
 markup1 = types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
 markup2 = types.ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
